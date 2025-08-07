@@ -16,7 +16,7 @@ Follow the steps below to set up and run the local development environment.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <YOUR_REPOSITORY_URL>
+    git clone https://github.com/fcappellaTW/mini-taas.git
     cd mini-taas
     ```
 
